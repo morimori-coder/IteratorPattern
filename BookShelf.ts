@@ -40,4 +40,4 @@ class BookShelf implements Iterable<Book> {
             }
         };
     }
-}
+} export { BookShelf };

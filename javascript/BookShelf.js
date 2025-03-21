@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BookShelf = void 0;
 class BookShelf {
     constructor(maxsize) {
         this.last = 0;
@@ -37,3 +38,4 @@ class BookShelf {
         };
     }
 }
+exports.BookShelf = BookShelf;
