@@ -21,4 +21,4 @@ class BookShelfIterator implements Iterator<Book> {
             value: book
         };
     }
-}
+} export { BookShelfIterator };
