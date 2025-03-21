@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 class BookShelfIterator {
     constructor(bookShelf) {
         this.BookShelf = bookShelf;
@@ -17,3 +15,4 @@ class BookShelfIterator {
         };
     }
 }
+export { BookShelfIterator };
